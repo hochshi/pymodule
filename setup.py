@@ -8,14 +8,14 @@ def readme():
 
 setuptools.setup(
     name='pymodule',
-    version='0.1-alpha',
+    version='0.2-alpha',
     license='GPL-3.0',
     description='Python module interface',
     long_description=readme(),
     long_description_content_type="text/markdown",
     url='https://github.com/hochshi/pymodule',
     download_url=
-    'https://github.com/hochshi/pymodule/archive/v0.1-alpha.tar.gz',
+    'https://github.com/hochshi/pymodule/archive/v0.2-alpha.tar.gz',
     keywords=['RHEL', 'module'],
     author='Shi Hoch',
     author_email='pymodule@mailinator.com',
