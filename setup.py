@@ -12,6 +12,7 @@ setuptools.setup(
     license='GPL-3.0',
     description='Python module interface',
     long_description=readme(),
+    long_description_content_type="text/markdown",
     url='https://github.com/hochshi/pymodule',
     download_url=
     'https://github.com/hochshi/pymodule/archive/v0.1-alpha.tar.gz',
