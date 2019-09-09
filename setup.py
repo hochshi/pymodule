@@ -18,7 +18,7 @@ setuptools.setup(
     'https://github.com/hochshi/pymodule/archive/v0.1-alpha.tar.gz',
     keywords=['RHEL', 'module'],
     author='Shi Hoch',
-    author_email='hochshi@gmail.com',
+    author_email='pymodule@mailinator.com',
     packages=setuptools.find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
